@@ -1,7 +1,7 @@
 {
   "DESIGN_NAME": "tt_um_Son_nion",
   "VERILOG_FILES": [
-    "project.v"
+    "project.v",
     "A05_array_mult4x4.v"
   ],
 
